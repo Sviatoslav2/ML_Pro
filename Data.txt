@@ -1,0 +1,8 @@
+https://www.kaggle.com/c/10151/download-all
+
+
+Data shuld have ./train/
+		./test/
+		depths.csv
+		sample_submission.csv
+		train.csv
